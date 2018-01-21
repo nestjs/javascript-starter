@@ -10,11 +10,11 @@
     "start": "nodemon index.js --exec babel-node"
   },
   "dependencies": {
-    "@nestjs/common": "^4.0.1",
-    "@nestjs/core": "^4.0.1",
-    "@nestjs/microservices": "^4.0.1",
-    "@nestjs/testing": "^4.0.1",
-    "@nestjs/websockets": "^4.0.1",
+    "@nestjs/common": "^4.5.9",
+    "@nestjs/core": "^4.5.10",
+    "@nestjs/microservices": "^4.5.8",
+    "@nestjs/testing": "^4.5.5",
+    "@nestjs/websockets": "^4.5.8",
     "body-parser": "^1.17.2",
     "babel-core": "^6.26.0",
     "babel-polyfill": "^6.26.0",
@@ -27,6 +27,6 @@
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-0": "^6.24.1",
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.14.1"
   }
 }
