@@ -7,7 +7,6 @@ export class AppController {
   constructor(appService) {
     this.appService = appService;
   }
-
   @Get()
   root() {
     return this.appService.root();
