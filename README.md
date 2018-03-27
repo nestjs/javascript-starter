@@ -27,7 +27,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework **JavaScript** starter repository.
+[Nest](https://github.com/nestjs/nest) framework JavaScript starter repository.
 
 ## Installation
 
