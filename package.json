@@ -18,7 +18,7 @@
     "@nestjs/testing": "^5.0.0",
     "@nestjs/websockets": "^5.0.0",
     "reflect-metadata": "^0.1.12",
-    "rxjs": "^5.4.3"
+    "rxjs": "^6.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
