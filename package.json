@@ -12,11 +12,11 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^7.0.1",
-    "@nestjs/core": "^7.0.1",
-    "@nestjs/platform-express": "^7.0.1",
+    "@nestjs/common": "^8.0.0",
+    "@nestjs/core": "^8.0.0",
+    "@nestjs/platform-express": "^8.0.0",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^6.5.4"
+    "rxjs": "^7.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
