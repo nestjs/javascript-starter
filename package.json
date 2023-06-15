@@ -12,9 +12,9 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^9.0.0",
-    "@nestjs/core": "^9.0.5",
-    "@nestjs/platform-express": "^9.0.0",
+    "@nestjs/common": "^10.0.0",
+    "@nestjs/core": "^10.0.0",
+    "@nestjs/platform-express": "^10.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.5.5"
   },
@@ -26,7 +26,7 @@
     "@babel/preset-env": "^7.18.6",
     "@babel/register": "^7.18.6",
     "@babel/runtime": "^7.18.6",
-    "@nestjs/testing": "^9.0.0",
+    "@nestjs/testing": "^10.0.0",
     "jest": "^28.1.2",
     "nodemon": "^2.0.19",
     "prettier": "^2.7.1",
